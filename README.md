@@ -17,3 +17,6 @@ Implement a **Visitor Design Pattern** approach to calculate the shipping cost b
 - Do **not** use abstract classes.
 - Ensure that adding new furniture types does **not** require modifying existing furniture classes.
 - Maintain separation of concerns by keeping shipping logic outside the furniture classes.
+
+  
+![Blank diagram (1)](https://github.com/user-attachments/assets/58398381-1744-4816-83ff-ec4386e43775)
